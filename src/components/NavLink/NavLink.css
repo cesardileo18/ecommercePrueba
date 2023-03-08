@@ -1,0 +1,4 @@
+nav.bm-item-list a.is-active{
+    font-weight: bold;
+    /* pointer-events: none; */
+}
